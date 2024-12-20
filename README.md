@@ -1,11 +1,15 @@
 # Customer Behavior Analysis: Churn
 
+
 ### Introduction📚
+
 
 This analysis explore different customer characteristics and prepare this e-commerce dataset for a predictive model of the *Churn* (not retained customers). We want to identify behavioral patterns and work with machine learning models for classification problems like **Random Forest** and **XGBoost** to predict customer churn. 
 
 
+
 ### Features of this dataset 📊:
+
 
 
 The dataset contains the following columns:
@@ -46,5 +50,7 @@ __Returns__: Whether the customer returned any products from the order (binary: 
 __Churn__: A binary column indicating whether the customer has churned (0 for retained, 1 for churned).
 
 
-####⛓️ Link to the dataset: 
+
+
+### ⛓️ Link to the dataset: 
 https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis
