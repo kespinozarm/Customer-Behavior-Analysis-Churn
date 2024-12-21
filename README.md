@@ -54,3 +54,6 @@ __Churn__: A binary column indicating whether the customer has churned (0 for re
 
 ### ⛓️ Link to the dataset: 
 https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis
+
+
+Trello Link: https://trello.com/b/p53649s2/mid-project-customer-behavior-data
